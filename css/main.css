@@ -1,0 +1,91 @@
+* {
+	font-family: "Oswald"
+}
+.cabeza {
+	padding: 25px;
+} 
+header {
+	background-color: white;
+	height: 70px;
+}
+nav {
+	text-align: center;
+}
+.menu {
+	text-decoration: none;
+	color: black;
+	padding: 80px;
+}
+.portada {
+	background: url(../images/background.jpg);
+	background-size: 150%;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.logo {
+	position: relative;
+	top:150px;
+	left: 630px;
+}
+ .portada h1, h3 {
+	text-align: center;
+	color: white;
+	margin-top: -10px;
+}
+.portada h1 {
+	margin-top: 190px;
+	font-size: 50px;
+}
+.portada h3 {
+	font-size: 30px;
+	margin-top: -30px;
+}
+.segundo {
+	background: url(../images/tile1.png);
+	background-size: 40%;
+	background-repeat: repeat;
+	height: 400px;
+	padding: 10px 150px;
+}
+
+.segundo h2 {
+	color: #8F03E3;
+	text-align: center;
+}
+.chica {
+	border: 1px solid black;
+	padding: 5px;
+	float: left;
+}
+.gaton {
+	height: 400px;
+	padding: 20px 90px;
+}
+.letras {
+	color: #8F03E3;
+	text-align: center;
+}
+footer {
+	background: url(../images/tile2.png);
+	background-size: 5%;
+	background-repeat: repeat;
+	height: 350px;
+}
+.juntos {
+	position: relative;
+	left: 400px;
+	top: 50px;
+	margin: 20px;
+}
+.gato {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    border:2px solid blue;
+    padding: 5px;
+}
+.centro {
+	text-align: center;
+	color: #8F03E3;
+	padding-top: 50px;
+}
